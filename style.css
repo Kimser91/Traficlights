@@ -1,0 +1,45 @@
+.mainBody
+{
+    display: grid;
+    background-color: black;
+    width: 200px;
+    height: 400px;
+    border-radius: 20%;
+    justify-content: center;
+    align-content: center;
+}
+
+#red
+{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    border-radius: 50%;
+   
+    
+}
+#yellow
+{
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+    border-radius: 50%;
+   
+}
+#green
+{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    border-radius: 50%;
+    
+}
+#gray
+{
+    height: 100px;
+    width: 100px;
+    background-color: gray;
+    border-radius: 50%;
+    
+}
+
